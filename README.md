@@ -1,3 +1,5 @@
+This project is deprecated, please use [java](https://www.java.com) from now on.
+
 <p align="center">
   <a href="https://nodejs.org/">
     <img
